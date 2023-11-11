@@ -80,3 +80,82 @@ button:hover{
     cursor: pointer;
 }
 
+.ptitle{
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(43, 43, 43);
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.section1{
+    font-family: helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(43, 43, 43);
+    float: left;
+    margin-left: 150px;
+    background-color: rgb(237, 239, 238);
+    padding-top: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.section2{
+    font-family: helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(43, 43, 43);
+    float: center;
+    background-color: rgb(237, 239, 238);
+    padding-top: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.section3{
+    font-family: helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(43, 43, 43);
+    float: right;
+    margin-right: 150px;
+    background-color: rgb(237, 239, 238);
+    padding-top: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.middle{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.request{
+    height: 200px;
+}
+
+.fast{
+    height: 200px;
+}
+
+.designer{
+    height: 210px;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+}
+footer{
+    margin-bottom: 50px;
+}
